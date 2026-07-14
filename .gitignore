@@ -1,0 +1,17 @@
+# Build output
+target/
+
+# Runtime cache produced by the app
+cache/
+
+# Editor / IDE settings (machine-specific)
+.vscode/
+.idea/
+*.iml
+
+# Local design docs and generated diagrams
+docs/
+
+# OS junk
+.DS_Store
+Thumbs.db
